@@ -4,7 +4,7 @@ This project analyzes the expenses of Nitin, a graphic designer, over six months
 
 ## Acknowledgment
 
-This project was completed in collaboration with **Anudip Foundation** as part of their training and development programs. Special thanks to **Khushbu Thakur** madam for their support and guidance throughout the project.
+This project was completed in collaboration with **Anudip Foundation** as part of their training and development programs. Special thanks to **Khushbu Thakur** madam for her continuous support and guidance throughout the project.
 
 ## Project Overview
 Nitin earns ₹15,000 per month and struggles to save for a scooter purchase due to unclear spending patterns. This project evaluates his monthly expenses to identify where he can cut costs and improve his savings.
